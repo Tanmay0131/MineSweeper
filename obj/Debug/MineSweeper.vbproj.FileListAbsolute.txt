@@ -1,0 +1,13 @@
+C:\Users\CMP_TaSharma\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\CMP_TaSharma\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\CMP_TaSharma\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\CMP_TaSharma\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.xml
+C:\Users\CMP_TaSharma\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.vbproj.AssemblyReference.cache
+C:\Users\CMP_TaSharma\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\CMP_TaSharma\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Resources.resources
+C:\Users\CMP_TaSharma\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.vbproj.GenerateResource.cache
+C:\Users\CMP_TaSharma\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.vbproj.CoreCompileInputs.cache
+C:\Users\CMP_TaSharma\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\CMP_TaSharma\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.xml
+C:\Users\CMP_TaSharma\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\CMP_TaSharma\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form2.resources
